@@ -1,0 +1,28 @@
+@import "../main";
+@import "../components/header";
+
+.vacancies {
+  &__paragraph {
+    margin-top: 20px;
+  }
+
+  &__list {
+    margin-top: 20px;
+    display: flex;
+    gap: 30px;
+  }
+
+  &__img {
+    opacity: 0.9;
+    height: 200px;
+    border-radius: 20px;
+  }
+
+  &__caption {
+    padding: 5px;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 500;
+    color: $gray;
+  }
+}

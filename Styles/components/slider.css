@@ -1,0 +1,42 @@
+.slider {
+  position: relative;
+  margin-top: 30px;
+  margin-bottom: 50px;
+}
+.slider__row-line {
+  display: flex;
+  margin-bottom: 5px;
+  justify-content: space-between;
+  gap: 0.4%;
+}
+.slider__line {
+  width: 100%;
+  height: 3px;
+  background-color: #d7d7d7;
+  border-radius: 2px;
+  overflow: hidden;
+}
+.slider__line__fill {
+  width: 0;
+  height: 100%;
+  background-color: #08d6fa;
+}
+.slider__img {
+  display: none;
+  width: 100%;
+  border-radius: 2px;
+}
+.slider__btn {
+  position: absolute;
+  width: 50%;
+  height: 100%;
+  background-color: transparent;
+}
+.slider__btn__back {
+  left: 0;
+}
+.slider__btn__next {
+  right: 0;
+}
+
+/*# sourceMappingURL=slider.css.map */

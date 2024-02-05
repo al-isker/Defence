@@ -1,0 +1,27 @@
+.clients {
+  margin-top: 50px;
+}
+.clients__title {
+  margin-bottom: 5px;
+}
+.clients__list {
+  display: flex;
+  justify-content: center;
+  gap: 50px;
+  padding: 30px 60px 30px 20px;
+  border-radius: 1px 10px 10px 10px;
+  background-color: rgb(232, 237, 252);
+}
+.clients__item {
+  height: 150px;
+  transition: 0.1s ease-in-out;
+}
+.clients__item:hover {
+  transform: scale(0.96);
+  transition: 0.1s ease-in-out;
+}
+.clients__img {
+  height: 100%;
+}
+
+/*# sourceMappingURL=clients.css.map */

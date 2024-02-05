@@ -1,0 +1,35 @@
+@import "../main";
+@import "../components/header";
+@import "../components/menu.css";
+
+.personal {
+  margin-top: 30px;
+  display: flex;
+  justify-content: space-between;
+  padding: 20px 0 10px;
+
+  &__item {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  &__img {
+    opacity: 0.9;
+    height: 160px;
+    border-radius: 20px;
+  }
+
+  &__caption {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 40px;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 120%;
+    color: $gray;
+  }
+}

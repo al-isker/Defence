@@ -1,0 +1,15 @@
+@import "../main";
+@import "../components/header";
+@import "../components/menu.css";
+@import "../components/slider.css";
+@import "../components/clients";
+
+.tagline {
+  font-weight: 400;
+  font-size: 20px;
+  color: $gray;
+
+  & strong {
+    font-weight: 600;
+  }
+}

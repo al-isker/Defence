@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bf27a056-2c25-4c6b-a19e-8a6a5ee8cf00" name="Changes" comment="New repository(Defence) from Virazh">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JS/slider.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pages/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pages/clients.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pages/contacts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pages/general-consulting.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pages/general-equipment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pages/general-personal.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pages/general-provision.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pages/general-special-training.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pages/hostess.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pages/reviews.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pages/steward.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pages/vacancies.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pictures/PDF-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pictures/clients/Anzhi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pictures/clients/Dynamo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pictures/clients/Pobeda.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pictures/documents/doc1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pictures/documents/doc2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pictures/documents/doc3.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pictures/documents/doc4.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pictures/documents/благодарность.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pictures/documents/сертификат.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pictures/documents/сертификат.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pictures/documents/устав.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pictures/equipment/cone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pictures/equipment/metal-detector.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pictures/equipment/walkie-talkie.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pictures/gude-2024-02-05.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pictures/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pictures/menu/consulting.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pictures/menu/equipment.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pictures/menu/personal.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pictures/menu/provision.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pictures/menu/special-training.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pictures/personal/hostess.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pictures/personal/inspection.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pictures/personal/parking-attendant.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pictures/personal/security.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pictures/personal/steward.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pictures/slider/general-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pictures/slider/general-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pictures/slider/general-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pictures/slider/general_provision-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pictures/slider/general_provision-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pictures/slider/general_special-training-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pictures/slider/general_special-training-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Styles/colors.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Styles/colors.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Styles/colors.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Styles/components/PDF-link.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Styles/components/PDF-link.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Styles/components/PDF-link.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Styles/components/clients.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Styles/components/clients.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Styles/components/clients.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Styles/components/header.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Styles/components/header.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Styles/components/header.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Styles/components/menu.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Styles/components/menu.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Styles/components/menu.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Styles/components/slider.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Styles/components/slider.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Styles/components/slider.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Styles/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Styles/main.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Styles/main.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Styles/pages/about.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Styles/pages/about.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Styles/pages/about.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Styles/pages/clients.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Styles/pages/clients.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Styles/pages/clients.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Styles/pages/contacts.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Styles/pages/contacts.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Styles/pages/contacts.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Styles/pages/general-consulting.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Styles/pages/general-consulting.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Styles/pages/general-consulting.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Styles/pages/general-equipment.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Styles/pages/general-equipment.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Styles/pages/general-equipment.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Styles/pages/general-personal.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Styles/pages/general-personal.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Styles/pages/general-personal.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Styles/pages/general-provision.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Styles/pages/general-provision.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Styles/pages/general-provision.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Styles/pages/general-special-training.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Styles/pages/general-special-training.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Styles/pages/general-special-training.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Styles/pages/general.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Styles/pages/general.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Styles/pages/general.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Styles/pages/hostess.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Styles/pages/hostess.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Styles/pages/hostess.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Styles/pages/reviews.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Styles/pages/reviews.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Styles/pages/reviews.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Styles/pages/steward.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Styles/pages/steward.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Styles/pages/steward.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Styles/pages/vacancies.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Styles/pages/vacancies.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Styles/pages/vacancies.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Styles/reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Styles/text-block.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Styles/text-block.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Styles/text-block.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;al-isker&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="e0f944ed-e3bb-47c2-95dd-d720b51b5518" />
+        <option name="url" value="https://github.com/al-isker/Defence.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2bx0WSjIicNIqRYMRaeGJeXNVbK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "I:/Projects/JS/Defence",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="I:\Projects\JS\Defence" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bf27a056-2c25-4c6b-a19e-8a6a5ee8cf00" name="Changes" comment="" />
+      <created>1707141453871</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707141453871</updated>
+      <workItem from="1707141455026" duration="964000" />
+      <workItem from="1707142499690" duration="132000" />
+    </task>
+    <task id="LOCAL-00001" summary="New repository(Defence) from Virazh">
+      <option name="closed" value="true" />
+      <created>1707141911902</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1707141911902</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="New repository(Defence) from Virazh" />
+    <option name="LAST_COMMIT_MESSAGE" value="New repository(Defence) from Virazh" />
+  </component>
+</project>

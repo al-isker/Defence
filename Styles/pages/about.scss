@@ -1,0 +1,21 @@
+@import "../main";
+@import "../components/header";
+@import "../components/menu.css";
+@import "../components/slider.css";
+
+
+.slider {
+  margin-top: 10px;
+}
+
+.about {
+  margin-top: 30px;
+
+  &__item {
+    margin-bottom: 40px;
+  }
+
+  &__content {
+    margin-top: 15px;
+  }
+}

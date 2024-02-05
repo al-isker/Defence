@@ -1,0 +1,26 @@
+.menu {
+  margin-top: 30px;
+  display: flex;
+  justify-content: space-between;
+}
+.menu__item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  transition: 0.1s ease-in-out;
+}
+.menu__item:hover {
+  transform: translateY(10px);
+  transition: 0.1s ease-in-out;
+}
+.menu__img {
+  height: 130px;
+}
+.menu__caption {
+  color: #524e4e;
+  margin: 5px 0;
+  font-size: 17px;
+  font-weight: 400;
+}
+
+/*# sourceMappingURL=menu.css.map */

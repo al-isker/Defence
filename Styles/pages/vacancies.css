@@ -1,0 +1,242 @@
+@charset "UTF-8";
+/*Обнуление*/
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+* {
+  padding: 0;
+  margin: 0;
+  border: 0;
+}
+
+*, *:before, *:after {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+:focus, :active {
+  outline: none;
+}
+
+a:focus, a:active {
+  outline: none;
+}
+
+nav, footer, header, aside {
+  display: block;
+}
+
+html, body {
+  height: 100%;
+  width: 100%;
+  font-size: 100%;
+  line-height: 1;
+  font-size: 14px;
+  -ms-text-size-adjust: 100%;
+  -moz-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+}
+
+input, button, textarea {
+  font-family: inherit;
+}
+
+input::-ms-clear {
+  display: none;
+}
+
+button {
+  cursor: pointer;
+}
+
+button::-moz-focus-inner {
+  padding: 0;
+  border: 0;
+}
+
+a, a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+ul li {
+  list-style: none;
+}
+
+img {
+  vertical-align: top;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-size: inherit;
+  font-weight: 400;
+}
+
+/*--------------------*/
+.text-block {
+  margin-top: 40px;
+}
+
+.title {
+  margin-top: 40px;
+  padding: 15px 0;
+  font-size: 20px;
+  font-weight: 600;
+  color: #2d2b2b;
+  text-align: center;
+}
+
+.headline {
+  font-size: 20px;
+  font-weight: 600;
+  color: #524e4e;
+}
+
+.paragraph {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 160%;
+  color: #2d2b2b;
+}
+
+a.mail, a.tel {
+  color: inherit;
+  font-weight: 500;
+  text-decoration: underline 1px;
+}
+a.mail:active, a.tel:active {
+  background-color: #e7edff;
+}
+
+a.link-page {
+  font-weight: inherit;
+  text-decoration: underline 1px;
+}
+a.link-page:active {
+  background-color: #e7edff;
+}
+
+.list {
+  margin: 10px 0 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+.list__item {
+  display: inline-block;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 140%;
+  color: #2d2b2b;
+}
+.list__item::before {
+  content: "";
+  display: inline-block;
+  width: 7px;
+  height: 7px;
+  margin: 1px 7px;
+  border-radius: 50%;
+  background-color: #524e4e;
+}
+
+body {
+  height: auto;
+  padding-bottom: 20px;
+  font-family: Montserrat, sans-serif;
+}
+
+main {
+  max-width: 1100px;
+  margin: 0 auto;
+}
+
+.container {
+  padding: 30px 50px;
+}
+
+.header__container {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 0 60px;
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.header__logo {
+  padding: 5px 0;
+  width: 18%;
+}
+.header__img {
+  width: 100%;
+}
+.header__navbar {
+  display: flex;
+  width: 68%;
+  justify-content: space-between;
+}
+.header__navbar__item {
+  margin-top: 5px;
+  padding: 15px;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 1px;
+  white-space: nowrap;
+  color: #524e4e;
+}
+.header__navbar__item:after {
+  content: "";
+  background-color: #524e4e;
+  display: block;
+  width: 0;
+  height: 1px;
+  margin-top: 1px;
+  position: relative;
+  left: 50%;
+  transition: 0.2s ease-in-out;
+}
+.header__navbar__item_active:after {
+  left: 0;
+  width: 100%;
+}
+.header__navbar__item:hover:after {
+  left: 0;
+  width: 100%;
+}
+.header__links {
+  width: 150px;
+  display: flex;
+  justify-content: end;
+}
+.header:after {
+  content: "";
+  display: block;
+  width: 100%;
+  height: 1.5px;
+  background-color: #524e4e;
+}
+
+.vacancies__paragraph {
+  margin-top: 20px;
+}
+.vacancies__list {
+  margin-top: 20px;
+  display: flex;
+  gap: 30px;
+}
+.vacancies__img {
+  opacity: 0.9;
+  height: 200px;
+  border-radius: 20px;
+}
+.vacancies__caption {
+  padding: 5px;
+  text-align: center;
+  font-size: 20px;
+  font-weight: 500;
+  color: #524e4e;
+}
+
+/*# sourceMappingURL=vacancies.css.map */

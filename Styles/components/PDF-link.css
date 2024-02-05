@@ -1,0 +1,13 @@
+.pdf-block {
+  margin-top: 50px;
+}
+.pdf-block__link {
+  height: 100px;
+  display: flex;
+  align-items: center;
+}
+.pdf-block__img {
+  height: 100%;
+}
+
+/*# sourceMappingURL=PDF-link.css.map */

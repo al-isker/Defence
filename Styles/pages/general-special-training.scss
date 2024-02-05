@@ -1,0 +1,28 @@
+@import "../main";
+@import "../components/header";
+@import "../components/menu.css";
+@import "../components/slider.css";
+@import "../components/PDF-link";
+
+.certificate {
+  margin-top: 50px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 15px;
+
+  &__text {
+    width: 75%;
+    font-size: 16px;
+    font-style: italic;
+    line-height: 165%;
+  }
+
+  &__link {
+    width: 25%;
+  }
+
+  &__img {
+    width: 100%;
+  }
+}
